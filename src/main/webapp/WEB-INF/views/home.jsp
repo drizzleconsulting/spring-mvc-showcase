@@ -43,6 +43,9 @@
                         I am adding this extra line
                  </p>
 <p>
+CHANGES MADE BY ME
+</p>
+<p>
 This is the second line to be added
 </p>
 		<ul>
